@@ -4,7 +4,7 @@
 **Program**: Digital Design and Fabrication | **School:** SUNY New Paltz | **Website:** https://blog.whistlehog.com
 
 **Version:** 0.1
-**Updates (Github):** [https://github.com/sciamop/veil-os-renderer/blob/main/Countermeasures%20-%20Sources%20-%20Faulls%20-%20Spring%202026.md] Countermeasures - Sources - Faulls - Spring 2026.md
+**Updates (Github):** [https://github.com/sciamop/countermeasures/blob/main/Sources-Countermeasures-Faulls-Spring2026.md] Countermeasures-Sources-Faulls- Spring2026.md
 
 ## Summary
 
