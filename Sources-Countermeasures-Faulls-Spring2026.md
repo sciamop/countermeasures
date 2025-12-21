@@ -160,6 +160,8 @@ Considered to be “The” handbook on developing technology for facial recognit
 
 [https://www.nature.com/articles/s41467-025-63373-7](https://www.nature.com/articles/s41467-025-63373-7) 
 
+‎[https://apnews.com/photo-essay/chinese-surveillance-silicon-valley-tech-photo-essay-2da6d9ae5c29d973955e761fa42f7798#] AP photo essay on IR surveillance
+
 ---
 
 ## More sources
