@@ -164,6 +164,8 @@ Considered to be “The” handbook on developing technology for facial recognit
 
 [https://urbanarmor.org/](website of Kathleen McDermott countersurveillance adjacent art projects)
 
+[https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware](federal troops use of facial recognition)
+
 ---
 
 ## More sources
