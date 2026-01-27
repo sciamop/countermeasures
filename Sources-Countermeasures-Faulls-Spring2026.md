@@ -160,6 +160,13 @@ Considered to be “The” handbook on developing technology for facial recognit
 
 [https://www.nature.com/articles/s41467-025-63373-7](https://www.nature.com/articles/s41467-025-63373-7) 
 
+‎[https://apnews.com/photo-essay/chinese-surveillance-silicon-valley-tech-photo-essay-2da6d9ae5c29d973955e761fa42f7798#] (AP photo essay on IR surveillance)
+
+[https://urbanarmor.org/] (website of Kathleen McDermott countersurveillance adjacent art projects)
+
+[federal troops use of facial recognition and other survtech]
+(https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
+
 ---
 
 ## More sources
