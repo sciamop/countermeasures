@@ -48,3 +48,5 @@
 **Approach**: Use LivePortrait to bring the face to life on the screen. This should add to the horror of seeing one's own visage unexepectedly AND be a concrete example of how we unwillingly surrender ownership of our identity to digital surfaces. 
  
 **Challenge**: While I do have a Raspberry Pi 5 w/ AI hat that I plan on using for onboard compute, it may still be very slow to animate the face. I've prototyped with using my desktop GPU via Tailscale and it was seriously slow. In order for this to be effective, it needs to be near realtime.  
+
+**Commentary**: Needs to be waaaaay faster. 
