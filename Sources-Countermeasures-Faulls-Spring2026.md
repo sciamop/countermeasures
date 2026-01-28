@@ -124,12 +124,6 @@ Considered to be “The” handbook on developing technology for facial recognit
 
 ---
 
-## Inspiration
-
-![][image1]
-
-![][image2]![][image3]![][image4]![][image5]![][image6]![][image7]![][image8]![][image9]![][image10]![][image11]![][image12]![][image13]![][image14]![][image15]![][image16]![][image17]![][image18]![][image19]![][image20]![][image21]
-
 ## Links
 
 [https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html)
