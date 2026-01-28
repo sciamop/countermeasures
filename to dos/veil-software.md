@@ -26,7 +26,7 @@ Although simple in presentation, this is complex in execution:
 -- Warp/distort for lens correction (barrel distortion for fresnel lenses).
 -- Render to internal display (Pixel 7 Pro screen).
 - [ ] **Stereoscopic Handling**:
--- If single camera: Duplicate stream to left/right eyes, simulating depth at infinity OR apply shader for fake depth.
+-- If single camera: Duplicate stream to left/right eyes, simulating depth at infinity OR apply shader for fake depth. 
 -- If dual camera: Map Cam L -> Eye L, Cam R -> Eye R.
 - [ ] **Fail-safe**: If software crashes, pass-through MUST auto-recover or fail to a "transparent" mode (if hardware allows) or clear warning.
 
