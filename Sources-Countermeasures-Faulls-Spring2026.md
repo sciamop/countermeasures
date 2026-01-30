@@ -161,6 +161,9 @@ Considered to be “The” handbook on developing technology for facial recognit
 [federal troops use of facial recognition and other survtech]
 (https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
 
+[Thesis structure]
+(https://classes.sewanee.edu/malde/writing-an-artist-thesis/)
+
 ---
 
 ## More sources
