@@ -164,6 +164,13 @@ Considered to be “The” handbook on developing technology for facial recognit
 [Thesis structure]
 (https://classes.sewanee.edu/malde/writing-an-artist-thesis/)
 
+[activists make anti-surveillance software and tools]
+(https://www.scworld.com/brief/hackers-activists-deploy-tools-to-counter-ice-surveillance-tech)
+
+[ICE inquirest into using ad tech for surveillance]
+(https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/)
+
+
 ---
 
 ## More sources

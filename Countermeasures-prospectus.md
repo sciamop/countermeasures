@@ -37,12 +37,12 @@ These devices need to be effective, user-friendly, well-designed and durable. Th
 
 #### Questions
 
-  * What are people willing to carry?
+  * ~~What are people willing to carry?~~ Not relevant
   * What are the cultural taboos associated with wearing technology?
   * Is it possible to fuse fashion and technology?
   * Can these things be relatively autonomous?
   * How cheaply can they be made?
-  * What are the devices?
+  * ~~What are the devices?~~ Meaty subject. Focus on Veil.
   * What are the concepts, themes, activities that are most creepy from Big Tech? How can they be rendered in reality?
 
 ### Project Description
