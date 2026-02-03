@@ -1,17 +1,16 @@
-# [Thesis Title]
+# Countermeasures (or Veil)
 
-**Author:**  
-**School:**  
-**Program:**  
-**Advisor:**  
-**Date:**  
-**Version:** Draft 0.1
+**Author:**  Todd Faulls
+**School:**  SUNY New Paltz
+**Program:** MA DDF Grad
+**Advisor:** Chad Bridgewater
+**Date:**  2/1/2026
+**Version:** Draft 0.2
 
 ---
 
 ## Abstract
 *Pull from prospectus... but focus on intersection of surveillance, identity, wearables, technology and, of course, ddf. *
-
 
 ## 1. Introduction
 
@@ -412,11 +411,11 @@ What worked conceptually, technically, and materially.
 
 ### 7.2 Limitations
 
-What remains unresolved: technical constraints, ethical tensions, usability issues.
+What remains unresolved: technical constraints, ethical tensions, usability/practicality issues.
 
 ### 7.3 Ethical Considerations
 
-Address ambiguity: resistance vs escalation, privacy vs provocation, individual action within systemic problems.
+Address ambiguity: resistance vs escalation, privacy vs provocation, individual action within systemic problems, "for my friends everything, for my enemies the law".
 
 ---
 
@@ -424,11 +423,11 @@ Address ambiguity: resistance vs escalation, privacy vs provocation, individual 
 
 ### 8.1 Contribution to Design Practice
 
-How Veil expands conversations around wearable technology and critical design.
+How Veil expands conversations around wearable technology and cultural/critical interpretations.
 
 ### 8.2 Broader Implications
 
-Future trajectories: counter-surveillance tools, personal autonomy, and the aesthetics of refusal.
+Future trajectories: counter-surveillance tools, personal autonomy, authoritarian regimes, re-imagine software as an app rather than OS for a helmet and the aesthetics of refusal.
 
 ---
 
