@@ -170,6 +170,7 @@ Considered to be “The” handbook on developing technology for facial recognit
 [ICE inquirest into using ad tech for surveillance]
 (https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/)
 
+[Google Glimmer - MR UXD Jetpack](https://design.google/library/transparent-screens)
 
 ---
 
