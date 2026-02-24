@@ -154,21 +154,17 @@ Considered to be “The” handbook on developing technology for facial recognit
 
 [https://www.nature.com/articles/s41467-025-63373-7](https://www.nature.com/articles/s41467-025-63373-7) 
 
-‎[https://apnews.com/photo-essay/chinese-surveillance-silicon-valley-tech-photo-essay-2da6d9ae5c29d973955e761fa42f7798#] (AP photo essay on IR surveillance)
+‎[https://apnews.com/photo-essay/chinese-surveillance-silicon-valley-tech-photo-essay-2da6d9ae5c29d973955e761fa42f7798#](AP photo essay on IR surveillance)
 
-[https://urbanarmor.org/] (website of Kathleen McDermott countersurveillance adjacent art projects)
+[https://urbanarmor.org/](website of Kathleen McDermott countersurveillance adjacent art projects)
 
-[federal troops use of facial recognition and other survtech]
-(https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
+[federal troops use of facial recognition and other survtech](https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
 
-[Thesis structure]
-(https://classes.sewanee.edu/malde/writing-an-artist-thesis/)
+[Thesis structure](https://classes.sewanee.edu/malde/writing-an-artist-thesis/)
 
-[activists make anti-surveillance software and tools]
-(https://www.scworld.com/brief/hackers-activists-deploy-tools-to-counter-ice-surveillance-tech)
+[activists make anti-surveillance software and tools](https://www.scworld.com/brief/hackers-activists-deploy-tools-to-counter-ice-surveillance-tech)
 
-[ICE inquirest into using ad tech for surveillance]
-(https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/)
+[ICE inquirest into using ad tech for surveillance](https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/)
 
 [Google Glimmer - MR UXD Jetpack](https://design.google/library/transparent-screens)
 
